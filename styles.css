@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    background-image: url('imagenes/fondo.jpg');
+    text-align: center;
+    color: #333;
+}
+.cuadro-transparente {
+    width: 300px; /* Ancho del cuadro */
+    height: 200px; /* Alto del cuadro */
+    padding: 20px; /* Espaciado interno */
+    background-color: rgba(255, 255, 255, 0.5); /* Fondo blanco con 50% de transparencia */
+    border: 2px solid #000; /* Borde negro */
+    border-radius: 10px; /* Bordes redondeados */
+    color: #000; /* Color del texto */
+}
+
+
+h1 {
+    color: #ff69b4;
+}
+
+h2 {
+    color: #ba55d3;
+}
+
+h3 {
+    color: #4682b4;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+    margin: 0 10px;
+}
+
+img {
+    width: 200px;
+    margin: 10px;
+}
